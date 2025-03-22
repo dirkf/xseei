@@ -1,0 +1,22 @@
+﻿<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- It's an action; it refers to a search engine -->
+<!ENTITY exportSelectedButton.label "تصدير…">
+<!-- Whenever possible, use different accesskeys to those already used in the pane where search engines are managed -->
+<!ENTITY exportSelectedButton.accesskey "E">
+<!-- Don't translate the "OpenSearch" string -->
+<!ENTITY import.description "يمكنك استيراد محركات البحث من ملفات XML بتنسيق OpenSearch">
+<!-- Translate it in the same way as the "Learn More" buttons present in other panes of the Preferences page -->
+<!ENTITY import.learn.label "اعرف المزيد">
+<!-- It's an action; it refers to a search engine -->
+<!ENTITY importButton.label "استيراد…">
+<!-- Whenever possible, use different accesskeys to those already used in the pane where search engines are managed -->
+<!ENTITY importButton.accesskey "I">
+<!ENTITY exportAllButton.label "تصدير جميع محركات البحث…">
+<!-- Whenever possible, use different accesskeys to those already used in the pane where search engines are managed -->
+<!ENTITY exportAllButton.accesskey "A">
+<!ENTITY exportNonDefaultsButton.label "تصدير كافة محركات البحث غير الافتراضية…">
+<!-- Whenever possible, use different accesskeys to those already used in the pane where search engines are managed -->
+<!ENTITY exportNonDefaultsButton.accesskey "N">

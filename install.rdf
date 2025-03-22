@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -13,7 +13,6 @@
         <em:type>2</em:type>
         <em:version>0.4</em:version>
         <em:name>XML Search Engines Exporter/Importer</em:name>
-
         <em:description>Import and export search engines from XML files in the OpenSearch format</em:description>
         <em:creator>nohamelin</em:creator>
 
@@ -55,6 +54,14 @@
                 <em:translator>YFdyh000</em:translator>
             </Description>
         </em:localized>
-
     </Description>
+        <em:localized> <!-- Arabic -->
+            <Description>
+                <em:locale>ar-SA</em:locale>
+                <em:name>XML Search Engines Exporter/Importer</em:name>
+                <em:description>استيراد وتصدير محركات البحث من ملفات XML بتنسيق OpenSearch</em:description>
+                <em:creator>nohamelin</em:creator>
+                <em:translator>JaMaYcKa2B1</em:translator>
+            </Description>
+        </em:localized>
 </RDF>
