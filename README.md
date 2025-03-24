@@ -29,7 +29,7 @@ Check the initial comments inside each file for further information.
 
 ##### What about Pale Moon, Waterfox or other Firefox forks still supporting XUL-based add-dons?
 
-I haven't tested the add-on with these applications, and I haven't planned to support them.
+I haven't tested the add-on with these applications, and I haven't planned to support them. The single-file import script works in SeaMonkey 2.53.20 at least [provided that `general.config.snadbox_enabled` is set to `false` while running the script in the shift+F4 JS scratchpad](https://gist.github.com/nohamelin/8e2e1b50dc7d97044992ae981487c6ec?permalink_comment_id=5510056#gistcomment-5510056). 
 
 
 ### Original Motivation
